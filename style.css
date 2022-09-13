@@ -1,0 +1,32 @@
+/*Tags*/
+body {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style: none;
+}
+
+/*Classes*/
+.upper {
+    color: white;
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.tabs {
+    display: flex;
+    gap: 10px;
+}
